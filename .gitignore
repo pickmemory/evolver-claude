@@ -1,0 +1,16 @@
+# 敏感配置
+.env
+
+# Node.js
+node_modules/
+*.log
+npm-debug.log*
+
+# 临时文件
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
